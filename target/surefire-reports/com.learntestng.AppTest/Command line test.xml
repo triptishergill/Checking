@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Tripti" name="com.learntestng.AppTest" tests="1" failures="0" timestamp="15 Oct 2015 10:06:33 GMT" time="0.086" errors="0">
+  <testcase name="sendMail" time="0.044" classname="com.learntestng.AppTest"/>
+</testsuite>
